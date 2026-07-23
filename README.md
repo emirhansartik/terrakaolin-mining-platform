@@ -31,6 +31,9 @@ Proje, Google'ın Core Web Vitals metrikleri baz alınarak optimize edilmiştir.
 *   **Best Practices (En İyi Uygulamalar): 100/100** (Güvenli bağlantılar, optimize edilmiş kaynak yönetimi)
 *   **Erişilebilirlik (Accessibility): 96/100** (W3C standartlarına uygun kontrast ve ARIA etiketlemeleri)
 
+  ![Terrakaolin PageSpeed Insights skoru](terrakaolin-scores.png)
+
+
 ---
 
 ## 🛠️ Kullanılan Teknoloji Yığını (Tech Stack)
